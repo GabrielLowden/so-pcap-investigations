@@ -4,10 +4,9 @@ Author: Gabe Lowden
 
 ## Overview
 
-This repository documents malware traffic investigations conducted using **Security Onion**, leveraging **Zeek** and **Suricata** for network analysis and alerting. 
+This repository documents malware traffic investigations conducted using **Security Onion-2.4.201** in **EVAL Mode**, leveraging **Zeek** and **Suricata** for network analysis and alerting. 
 The goal of these exercise was to explore, analyze, and document suspicious activity from a captured PCAP, demonstrating the process of network threat detection and rule creation in a SOC environment.
 
-- pcap samples from: https://www.malware-traffic-analysis.net/index.html
 
 ## Objective 
 
@@ -20,8 +19,20 @@ The goal of these exercise was to explore, analyze, and document suspicious acti
 ## Repository Structure
 
 - '/docs' - Detailed analysis for Zeek logs, Suricata alerts, and PCAP metadata.
-- '/screenshots' - Visual references of Kibana dashboards and alert panels.
+- '/screenshots' - Visual references.
 - '/rules' - Custom Suricata rules created for this investigation.
 - '/pcap' - Example PCAPS
+    &#8627; pcap samples from: https://www.malware-traffic-analysis.net/index.html
+
+## Lab Setup
+
+### VMs
+
+- Security Onion &rarr SOC Tools
+- Kali Linux &rarr Attacker Machine
+- Metasploitable &rarr Purposefully Vulnerable Machine
+- Anomali Staxx &rarr Threat Intel
+- Flare &rarr Malware/Reverse Tools
+- Seed Lab
 
 ---
