@@ -7,7 +7,7 @@ Author: Gabe Lowden
 This repository documents malware traffic investigations conducted using **Security Onion**, leveraging **Zeek** and **Suricata** for network analysis and alerting. 
 The goal of these exercise was to explore, analyze, and document suspicious activity from a captured PCAP, demonstrating the process of network threat detection and rule creation in a SOC environment.
 
-pcap files were downloaded from: https://www.malware-traffic-analysis.net/index.html
+- pcap samples from: https://www.malware-traffic-analysis.net/index.html
 
 ## Objective 
 
