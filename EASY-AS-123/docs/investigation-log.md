@@ -22,14 +22,14 @@
 ## 4. Response and recovery
 ### Immediate Response Actions
 + Revocation of access
-- Identification of compromised accounts/systems
-- Timeframe
-- Method of revocatoin
-- Impact
+    - Identification of compromised accounts/systems
+    - Timeframe
+    - Method of revocatoin
+    - Impact
 + Containment Strategy
-- Short-term
-- Long-term
-- Effectiveness
+    - Short-term
+    - Long-term
+    - Effectiveness
 ### Eradication Measures
 + Malware Removal
 + System Patching
