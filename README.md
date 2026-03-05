@@ -26,13 +26,8 @@ The goal of these exercise was to explore, analyze, and document suspicious acti
 
 ## Lab Setup
 
-### VMs
+### VMs Used
 
-- Security Onion &rarr SOC Tools
-- Kali Linux &rarr Attacker Machine
-- Metasploitable &rarr Purposefully Vulnerable Machine
-- Anomali Staxx &rarr Threat Intel
-- Flare &rarr Malware/Reverse Tools
-- Seed Lab
+- Security Onion --> SOC Tools
 
 ---
